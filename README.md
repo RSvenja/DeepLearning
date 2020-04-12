@@ -4,3 +4,14 @@
 - [x] Initial implementation using cross-entropy loss and L2 regularization and mini-batches
 - [x] Bonus 1: Improvements to the network (Shuffling data for each epoch, longer training, using all data, decaying learning rate, Xavier initialization)
 - [x] Bonus 2: SVM loss function
+
+## Assignment 2: Implementing a two layer network from scratch 
+- [x] Extending one layer network for two layers and CLR
+- [x] Bonus 1: Improvements to the network (Effect of more hidden layers, data augmentation, dropout)
+- [x] Bonus 2: Testing different boundaries for CLR
+
+
+## Assignment 3:
+
+## Assignment 4:
+
