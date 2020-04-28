@@ -11,7 +11,9 @@
 - [x] Bonus 2: Testing different boundaries for CLR
 
 
-## Assignment 3:
+## Assignment 3: Convolutional Network
+- [x] Implementing a ConvNet from scratch
+- [x] Bonus 1: Generalizing the code to use k convolutional layers
 
 ## Assignment 4:
 
