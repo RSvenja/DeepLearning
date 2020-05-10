@@ -15,5 +15,7 @@
 - [x] Implementing a ConvNet from scratch
 - [x] Bonus 1: Generalizing the code to use k convolutional layers
 
-## Assignment 4:
+## Assignment 4: Vanilla RNN
+- [x] RNN to generate Harry Potter text
+- [x] Bonus 1: Generating Twitter posts from Donald Trump
 
