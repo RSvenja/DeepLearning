@@ -19,6 +19,3 @@
 - [x] Bonus 1: Generating Twitter posts from Donald Trump
 
 
-
-
-[test reference](https://github.com/RSvenja/DeepLearning/blob/master/assignment4/Deep_Learning.pdf)
