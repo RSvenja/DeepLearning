@@ -10,7 +10,6 @@
 - [x] Bonus 1: Improvements to the network (Effect of more hidden layers, data augmentation, dropout)
 - [x] Bonus 2: Testing different boundaries for CLR
 
-
 ## Assignment 3: Convolutional Network
 - [x] Implementing a ConvNet from scratch
 - [x] Bonus 1: Generalizing the code to use k convolutional layers
@@ -19,3 +18,7 @@
 - [x] RNN to generate Harry Potter text
 - [x] Bonus 1: Generating Twitter posts from Donald Trump
 
+
+
+
+[test reference](../blob/master/assignment4/Deep_Learning.pdf)
